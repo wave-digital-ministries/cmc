@@ -9,11 +9,17 @@ function latest(){
     var l1 = "1"
     
     document.getElementById("title"+l1).innerHTML = 'Cows protest'
-    document.getElementById("author"+l1).innerHTML = 'Speaker McCarthy via Twitter: '
-    document.getElementById("content"+l1).innerHTML = '<p>"🚨 The House just approved an audit of Biden’s wasteful spending, which is driving up the cost of nearly everything you buy.</p><p>Every time he writes an executive order, you deserve to know exactly how much it’s going to cost you as a taxpayer.</p>'
+    document.getElementById("author"+l1).innerHTML = 'Jacob Borg'
+    document.getElementById("content"+l1).innerHTML = '<p>Cows were seen protesting in a field as church goers left service on Sunday. One witness reported that "The cows just kept mooing, not sure what that means, but the organizer of the protest surprisingly had good hoof writing."</p> <p>We can confirm that the organizing cow had good hoof/hand writing. We are honestly unsure if cows have hand or hoof writing</p> <p>Another church goer, identified as "Karen", said, "The cows are probably protesting the worship volume. It was a little loud."</p>'
     document.getElementById("content0"+l1).innerHTML = ''
 
 
+    var l2 = "11"
+    
+    document.getElementById("title"+l2).innerHTML = 'More coming soon!'
+    document.getElementById("author"+l2).innerHTML = ''
+    document.getElementById("content"+l2).innerHTML = '<p>We are still building our new website, so hang tight!</p>'
+    document.getElementById("content0"+l2).innerHTML = ''
 
 
     
